@@ -1,0 +1,1 @@
+A robust Selenium automation framework with Page Object Model, TestNG, reporting, and CI/CD integration for scalable web application testing.
